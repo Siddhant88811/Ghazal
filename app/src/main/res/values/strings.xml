@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ghazal</string>
+    <string name="textview">TextView</string>
+</resources>
